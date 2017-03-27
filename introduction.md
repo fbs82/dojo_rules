@@ -8,3 +8,4 @@ Deadly_Skills:
 * Git
 * HTML/CSS/Sass
 * Django
+* Killing history using git rebase
